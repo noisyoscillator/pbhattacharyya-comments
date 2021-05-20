@@ -1,2 +1,5 @@
 # pbhattacharyya-comments
-Utterances comments from pbhattacharyya blog posts
+Stores the reader comments for https://pbhattacharyya.rbind.com/blog/ as GitHub issues.
+
+Powered by [utterances](https://utteranc.es/).
+
